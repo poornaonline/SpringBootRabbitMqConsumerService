@@ -1,6 +1,6 @@
 # Spring Boot RabbitMQ - Consumer Service
 
-Spring boot, RabbitMQ - Consumer service
+Consumer Service - Spring boot, RabbitMQ
 
 install RabbitMQ on Docker
 
